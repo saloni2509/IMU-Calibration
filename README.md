@@ -7,5 +7,4 @@ Programed state space model of the system in Python by collecting the real time 
 
 The application in mind was analysis of Deterministic Error & Stochastic Error in inertial measurment unit.
 
-[IMU-Presentation.pptx](https://github.com/saloni2509/IMU-Calibration/files/6988874/IMU-Presentation.pptx)
-
+[IMU-Presentation.pdf](https://github.com/saloni2509/IMU-Calibration/files/6988879/IMU-Presentation.pdf)
